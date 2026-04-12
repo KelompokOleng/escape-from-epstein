@@ -45,5 +45,6 @@ Shortcut buat masuk ke chapter tertentu
 - [[Act 3 - The Bloom We Missed (Draft)]]
 - [[Act 4 - Empty (Draft)]]
 - [[Act 5 - The Last Promise (Draft)]]
+- [[Draft Karakter]]
 
 ---
