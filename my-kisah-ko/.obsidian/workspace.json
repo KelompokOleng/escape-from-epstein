@@ -8,17 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd659b3342b18967",
+            "id": "2e8f8ca1ed00f587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ridha.md",
+                "file": "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Ivana Valeriel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ridha"
+              "title": "Ivana Valeriel"
+            }
+          },
+          {
+            "id": "4562a13e95790674",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Tampilan grafik"
+            }
+          },
+          {
+            "id": "ab5cee87b802329c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1 - The World He Chooses To Believe (Draft).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Act 1 - The World He Chooses To Believe (Draft)"
+            }
+          },
+          {
+            "id": "0cc4631e752de184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vannya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vannya"
+            }
+          },
+          {
+            "id": "5959a94697959046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Davus Meldir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Davus Meldir"
+            }
+          },
+          {
+            "id": "8b69e95447532014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Scipio Marcellus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scipio Marcellus"
+            }
+          },
+          {
+            "id": "46de9f903cf8b5d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arya"
             }
           }
         ]
@@ -183,31 +263,35 @@
       "bases:Buat basis baru": false
     }
   },
-  "active": "bd659b3342b18967",
+  "active": "2e8f8ca1ed00f587",
   "lastOpenFiles": [
-    "Rafli.md",
-    "Mikun.md",
-    "Draft Karakter.md",
+    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Ivana Valeriel.md",
+    "Vannya.md",
     "Arya.md",
-    "Abay.md",
-    "Ridha.md",
-    "Act 4 - Empty (Draft).md",
-    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/10_The_World_He_Chooses_To_Believe_(Denial).md",
-    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Act 1 - The World He Chooses To Believe.md",
+    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Davus Meldir.md",
+    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Scipio Marcellus.md",
+    "Rendy.md",
+    "David.md",
     "Act 1 - The World He Chooses To Believe (Draft).md",
-    "Act 2 - A Man Who Carried Fire (Draft).md",
-    "00_Dashboard/My Kisah KO.md",
-    "Act 5 - The Last Promise (Draft).md",
-    "Act 3 - The Bloom We Missed (Draft).md",
-    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Sanghyang Kersa.md",
-    "00_Dashboard/50_The_Last_Promise_(Acceptance)/50_The_Last_Promise_(Acceptance).md",
-    "00_Dashboard/40_Empty_(Depression)/40_Empty_(Depression).md",
-    "00_Dashboard/50_The_Last_Promise_(Acceptance)/Sanghyang Siksakanda ng Karesian.md",
+    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/10_The_World_He_Chooses_To_Believe_(Denial).md",
+    "Ivana Valerie.md",
+    "Hernand.md",
+    "Masyuri.md",
+    "Reysya.md",
+    "Davin.md",
+    "Dzikri.md",
+    "Zaydan.md",
+    "Sevan.md",
+    "Sueb.md",
+    "Fazal.md",
+    "Dawut.md",
+    "Babay.md",
+    "Idan.md",
+    "Jaki.md",
+    "Titan.md",
+    "00_Dashboard/10_The_World_He_Chooses_To_Believe_(Denial)/Act 1 - The World He Chooses To Believe.md",
+    "Rara.md",
     "00_Dashboard/50_The_Last_Promise_(Acceptance)",
-    "00_Dashboard/40_Empty_(Depression) - Copy/Sanghyang Siksakanda ng Karesian.md",
-    "00_Dashboard/40_Empty_(Depression) - Copy/40_Empty_(Depression).md",
-    "00_Dashboard/40_Empty_(Depression) - Copy",
-    "00_Dashboard/30_The_Bloom_We_Missed_(Bargaining)/30_The_Bloom_We_Missed_(Bargaining).md",
-    "00_Dashboard/20_A_Man_Who_Carried_Fire_(Anger)/20_A_Man_Who_Carried_Fire_(Anger).md"
+    "00_Dashboard/40_Empty_(Depression) - Copy"
   ]
 }

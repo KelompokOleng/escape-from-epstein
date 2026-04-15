@@ -1,14 +1,8 @@
 ## 👥 Relasi Karakter
 
-[[Abay]] | 
-[[Ridha]] |
+[[David]] |
+[[Fazal]] |
 [[Arya]] |
-[[Rafli]] |
-[[Rendy]] |
-[[Pras]] |
-[[Titan]] |
-[[David]] | 
-[[Hernand]] | 
 
 ---
 

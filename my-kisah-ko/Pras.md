@@ -1,16 +1,16 @@
 ## 👥 Relasi Karakter
 
 [[Abay]] | 
-[[Ridha]] | 
-[[Mikun]] |
-[[Falih]] |
+[[Arya]] |
+[[Titan]] |
+[[Rafli]] |
 [[Zahra]] |
 [[Rendy]] |
-[[Pras]] |
-[[Zidny]] | 
-[[Dzikri]] |
+[[Mikun]] |
+[[Zhiyi]] |
+[[Wahyu]] | 
 [[Hernand]] |
-[[Arya]] | 
+[[Babay]] | 
 
 ---
 

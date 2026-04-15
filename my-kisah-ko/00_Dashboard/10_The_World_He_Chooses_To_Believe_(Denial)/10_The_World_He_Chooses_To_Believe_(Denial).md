@@ -5,7 +5,7 @@
 ## 👥 Daftar Karakter Yang Terlibat
 *Karakter yang nemenin atau bahkan ngajarin si MC di fase ini*
 
-- [[Sanghyang Kersa]] | *Batara Tunggal pencipta alam semesta.*
+- [[Ivana Valeriel]] | *Batara Tunggal pencipta alam semesta.*
 
 ## 📜 Lore Cerita
 *Naskah cerita komplit mulai dari dialog sampai adegannya*
